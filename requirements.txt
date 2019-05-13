@@ -1,0 +1,1 @@
+hobbit-core==1.3.1celery
